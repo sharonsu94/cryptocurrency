@@ -38,3 +38,20 @@ https://www.investopedia.com/news/16-cryptocurrencies-have-market-caps-greater-1
 https://www.kaggle.com/valeriovaccaro/cryptocoinshistoricalprices
 
 
+#### Final integrated project
+1. Crypto+Analysis.Final.ipynb
+
+"This is converted notebook to --markdown format"
+"ipython nbconvert --to FORMAT notebook.ipynb"
+
+2. Crypto+Analysis.Final.md 
+
+
+
+
+
+
+
+
+
+
