@@ -50,3 +50,4 @@ https://www.kaggle.com/valeriovaccaro/cryptocoinshistoricalprices
 
 3. top15.to_csv.csv
 
+4. Presentation: https://docs.google.com/presentation/d/1z4Dyhy7-5IjwW1guXzdF3fgD5daoYvBZz66FyomY-Jc/edit?usp=sharing
