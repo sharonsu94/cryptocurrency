@@ -6,23 +6,6 @@ Kalib
 Matteo  
 Sharon 
 
-## Stack
-* Python 3.6+
-
-## Quickstart
-### Install
-
-0. Verify Python version: `python -V`
-1. Install virtual environment: `pip3 install virtualenv`
-2. Create (and activate) virtual environment: `virtualenv venv` and `. venv/bin/activate`
-3. Install requirements: `pip install -r requirements`
-
-### Run
-
-4. Activate venv (if not already): `. venv/bin/activate`
-5. Launch jupyter notebook: `jupyter-notebook`
-6. Quit: `deactivate` 
-
 ## Main Research Questions & Breakdown of Tasks
 1. Is there a cryptocurrency that correlates with Bitcoin? (Kalib)  
 2. What is the year to year growth of the different cryptocurrencies? (Sunitha)  
